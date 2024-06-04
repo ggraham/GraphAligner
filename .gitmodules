@@ -9,7 +9,7 @@
 	url = https://github.com/greg7mdp/parallel-hashmap.git
 [submodule "BBHash"]
 	path = BBHash
-	url = https://github.com/maickrau/BBHash.git
+	url = https://github.com/ggraham/BBHash.git
 [submodule "MEMfinder"]
 	path = MEMfinder
-	url = https://github.com/maickrau/MEMfinder.git
+	url = https://github.com/ggraham/MEMfinder.git
